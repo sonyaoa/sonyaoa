@@ -1,4 +1,31 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Привет, я Соня 👋</h1>
+  <h3>Расту в области Data Science и аналитики</h3>
+</div>
+
+## 🚀 Навыки
+
+**Языки:** Python, SQL  
+**Анализ данных:** Pandas, NumPy, EDA, очистка и подготовка данных  
+**Визуализация:** Matplotlib, Seaborn, построение графиков и корреляций  
+**Математика и статистика:** Статистика, теория вероятностей, линейная алгебра  
+**Машинное обучение:** Scikit-learn, классические модели, метрики оценки качества, обработка признаков, валидация и др. 
+**Инструменты:** Jupyter Notebook, Git, Excel
+
+
+## 📂 Учебные проекты
+
+- 👥 [Прогнозирование текучести сотрудников](https://github.com/sonyaoa/employee_attrition_prediction)
+- 🛒 [Прогнозирование оттока клиентов](https://github.com/sonyaoa/client_retention_analysis)
+- 🐄 [Прогнозная модель для отбора коров](https://github.com/sonyaoa/cow_selection_prediction)
+- 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis)
+
+
+## 📫 Контакты
+[LinkedIn](https://www.linkedin.com/in/sofia-onishchenko/) | [Telegram](https://t.me/sonyaoa)
+E-mail: sofyaonishchenko98@gmail.com
+
+
 
 <!--
 **sonyaoa/sonyaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
