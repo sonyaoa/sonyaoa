@@ -15,7 +15,7 @@
 
 ### 📂 Учебные проекты
 
-- 👥 [Прогнозирование текучести сотрудников](https://github.com/sonyaoa/employee_attrition_prediction)
+- 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction)
 - 🛒 [Прогнозирование оттока клиентов](https://github.com/sonyaoa/client_retention_analysis)
 - 🐄 [Прогнозная модель для отбора коров](https://github.com/sonyaoa/cow_selection_prediction)
 - 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis)
