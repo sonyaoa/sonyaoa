@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <h2>Привет, я Соня!</h2>
+  <h2>Привет, я Соня 👋</h2>
   <h3>Расту в области Data Science и аналитики</h3>
 </div>
 
-## 🚀 Навыки
+### 🚀 Навыки
 
 **Языки:** Python, SQL  
 **Анализ данных:** Pandas, NumPy, EDA, очистка и подготовка данных  
@@ -13,7 +13,7 @@
 **Инструменты:** Jupyter Notebook, Git, Excel
 
 
-## 📂 Учебные проекты
+### 📂 Учебные проекты
 
 - 👥 [Прогнозирование текучести сотрудников](https://github.com/sonyaoa/employee_attrition_prediction)
 - 🛒 [Прогнозирование оттока клиентов](https://github.com/sonyaoa/client_retention_analysis)
@@ -21,7 +21,7 @@
 - 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis)
 
 
-## 📫 Контакты
+### 📫 Контакты
 [LinkedIn](https://www.linkedin.com/in/sofia-onishchenko/) | [Telegram](https://t.me/sonyaoa) | E-mail: sofyaonishchenko98@gmail.com
 
 
