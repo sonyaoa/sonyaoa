@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Привет, я Соня 👋</h1>
+  <h2>Привет, я Соня!</h2>
   <h3>Расту в области Data Science и аналитики</h3>
 </div>
 
@@ -22,8 +22,7 @@
 
 
 ## 📫 Контакты
-[LinkedIn](https://www.linkedin.com/in/sofia-onishchenko/) | [Telegram](https://t.me/sonyaoa)
-E-mail: sofyaonishchenko98@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sofia-onishchenko/) | [Telegram](https://t.me/sonyaoa) | E-mail: sofyaonishchenko98@gmail.com
 
 
 
