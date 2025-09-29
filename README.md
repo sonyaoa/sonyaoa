@@ -15,6 +15,7 @@
 
 ### 📂 Учебные проекты
 
+- 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis)
 - 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction)
 - 🛒 [Прогнозирование оттока клиентов](https://github.com/sonyaoa/client_retention_analysis)
 - 🐄 [Прогнозная модель для отбора коров](https://github.com/sonyaoa/cow_selection_prediction)
