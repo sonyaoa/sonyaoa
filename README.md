@@ -13,7 +13,7 @@
 - **Технологии и инструменты:** Jupyter Notebook, Excel, Git
 
 
-### 📂 Учебные проекты
+### 📂 Проектный опыт
 
 - 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis)
 - 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction)
