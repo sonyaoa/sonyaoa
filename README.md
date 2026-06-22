@@ -15,6 +15,8 @@
 
 ### 📂 Проектный опыт
 
+- 🚗 [Определение стоимости автомобилей](https://github.com/sonyaoa/car_price_estimation)
+- 🚕 [Прогнозирование заказов такси](https://github.com/sonyaoa/taxi_orders_prediction)
 - 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis)
 - 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction)
 - 🛒 [Прогнозирование оттока клиентов](https://github.com/sonyaoa/client_retention_analysis)
