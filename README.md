@@ -15,11 +15,14 @@
 
 ### 📂 Проектный опыт
 
+- 📉 [Прогнозирование оттока клиентов телеком-компании](https://github.com/sonyaoa/customer_churn_prediction)
+- 📷 [Определение возраста покупателей по фото](https://github.com/sonyaoa/customer_age_prediction)
+- 💬 [Определение токсичных комментариев](https://github.com/sonyaoa/toxic_comments_classification)
 - 🚗 [Определение стоимости автомобилей](https://github.com/sonyaoa/car_price_estimation)
 - 🚕 [Прогнозирование заказов такси](https://github.com/sonyaoa/taxi_orders_prediction)
 - 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis)
 - 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction)
-- 🛒 [Прогнозирование оттока клиентов](https://github.com/sonyaoa/client_retention_analysis)
+- 🛒 [Прогнозирование оттока клиентов интернет-магазина](https://github.com/sonyaoa/client_retention_analysis)
 - 🐄 [Прогнозная модель для отбора коров](https://github.com/sonyaoa/cow_selection_prediction)
 - 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis)
 
