@@ -6,25 +6,30 @@
 ### 👩‍💻 Навыки
 
 - **Языки:** Python, SQL  
-- **Анализ данных:** Pandas, NumPy, SciPy, EDA, очистка и подготовка данных  
+- **Анализ данных:** Pandas, NumPy, SciPy, EDA, предобработка и объединение данных    
 - **Визуализация:** Matplotlib, Seaborn, построение графиков и корреляций  
 - **Математика и статистика:** Теория вероятностей, статистика, основы линейной алгебры и математического анализа, проверка гипотез, доверительные интервалы, A/B-тестирование
-- **Машинное обучение:** Scikit-learn, классические модели, метрики оценки качества, feature engineering и др. 
-- **Технологии и инструменты:** Jupyter Notebook, Excel, Git
+- **Классическое машинное обучение:** Scikit-learn, классические алгоритмы, ансамблевые методы, градиентный бустинг, кросс-валидация, метрики оценки качества, feature engineering и др.
+- **Анализ временных рядов (Time Series):** ресемплирование, декомпозиция, лаговые признаки, скользящие статистики, TimeSeriesSplit
+- **Обработка естественного языка (NLP):** NLTK, SpaCy, TF-IDF, лемматизация, классификация текстов
+- **Компьютерное зрение (CV):** TensorFlow, Keras, CNN, ResNet50, обработка изображений
+- **Технологии и инструменты:** Jupyter Notebook, Excel, Git, GitHub
 
 
 ### 📂 Проектный опыт
 
-- 📉 [Прогнозирование оттока клиентов телеком-компании](https://github.com/sonyaoa/customer_churn_prediction)
-- 📷 [Определение возраста покупателей по фото](https://github.com/sonyaoa/customer_age_prediction)
-- 💬 [Определение токсичных комментариев](https://github.com/sonyaoa/toxic_comments_classification)
-- 🚗 [Определение стоимости автомобилей](https://github.com/sonyaoa/car_price_estimation)
-- 🚕 [Прогнозирование заказов такси](https://github.com/sonyaoa/taxi_orders_prediction)
-- 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis)
-- 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction)
-- 🛒 [Прогнозирование оттока клиентов интернет-магазина](https://github.com/sonyaoa/client_retention_analysis)
-- 🐄 [Прогнозная модель для отбора коров](https://github.com/sonyaoa/cow_selection_prediction)
-- 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis)
+| Проект | Направление |
+|---------|-------------|
+| 📉 [Прогнозирование оттока клиентов телеком-компании](https://github.com/sonyaoa/customer_churn_prediction) | Classical ML |
+| 📷 [Определение возраста покупателей по фото](https://github.com/sonyaoa/customer_age_prediction) | CV | 
+| 💬 [Определение токсичных комментариев](https://github.com/sonyaoa/toxic_comments_classification) | NLP |
+| 🚗 [Определение стоимости автомобилей](https://github.com/sonyaoa/car_price_estimation) | Classical ML |
+| 🚕 [Прогнозирование заказов такси](https://github.com/sonyaoa/taxi_orders_prediction) | Time Series | 
+| 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis) | Classical ML |
+| 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction) | Classical ML |
+| 🛒 [Прогнозирование оттока клиентов интернет-магазина](https://github.com/sonyaoa/client_retention_analysis) | Classical ML |
+| 🐄 [Прогнозная модель для отбора коров](https://github.com/sonyaoa/cow_selection_prediction) | Classical ML |
+| 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis) | Classical ML |
 
 
 ### 📫 Контакты
