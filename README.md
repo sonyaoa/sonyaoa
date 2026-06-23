@@ -21,15 +21,15 @@
 | Проект | Направление |
 |---------|-------------|
 | 📉 [Прогнозирование оттока клиентов телеком-компании](https://github.com/sonyaoa/customer_churn_prediction) | Classical ML |
-| 📷 [Определение возраста покупателей по фото](https://github.com/sonyaoa/customer_age_prediction) | CV | 
+| 📷 [Определение возраста покупателей по фото](https://github.com/sonyaoa/customer_age_prediction) | Computer Vision |
 | 💬 [Определение токсичных комментариев](https://github.com/sonyaoa/toxic_comments_classification) | NLP |
 | 🚗 [Определение стоимости автомобилей](https://github.com/sonyaoa/car_price_estimation) | Classical ML |
-| 🚕 [Прогнозирование заказов такси](https://github.com/sonyaoa/taxi_orders_prediction) | Time Series | 
+| 🚕 [Прогнозирование заказов такси](https://github.com/sonyaoa/taxi_orders_prediction) | Time Series Analysis |
 | 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis) | Classical ML |
 | 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction) | Classical ML |
 | 🛒 [Прогнозирование оттока клиентов интернет-магазина](https://github.com/sonyaoa/client_retention_analysis) | Classical ML |
 | 🐄 [Прогнозная модель для отбора коров](https://github.com/sonyaoa/cow_selection_prediction) | Classical ML |
-| 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis) | Classical ML |
+| 🎮 [Анализ продаж видеоигр](https://github.com/sonyaoa/video_games_sales_analysis) | Data Analysis |
 
 
 ### 📫 Контакты
