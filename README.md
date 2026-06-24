@@ -33,7 +33,7 @@
 
 
 ### 📫 Контакты
-[LinkedIn](https://www.linkedin.com/in/sofia-onishchenko/) | [Telegram](https://t.me/sonyaoa) | E-mail: sofyaonishchenko98@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sofia-onishchenko/) | [Telegram](https://t.me/sonyaoa) | E-mail: sofyaonishchenko98@yandex.ru
 
 
 
