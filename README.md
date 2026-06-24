@@ -20,11 +20,11 @@
 
 | Проект | Направление |
 |---------|-------------|
-| 📉 [Прогнозирование оттока клиентов телеком-компании](https://github.com/sonyaoa/customer_churn_prediction) | Machine Learning |
 | 📷 [Определение возраста покупателей по фото](https://github.com/sonyaoa/customer_age_prediction) | Computer Vision |
 | 💬 [Определение токсичных комментариев](https://github.com/sonyaoa/toxic_comments_classification) | NLP |
-| 🚗 [Определение стоимости автомобилей](https://github.com/sonyaoa/car_price_estimation) | Machine Learning |
 | 🚕 [Прогнозирование заказов такси](https://github.com/sonyaoa/taxi_orders_prediction) | Time Series Analysis |
+| 📉 [Прогнозирование оттока клиентов телеком-компании](https://github.com/sonyaoa/customer_churn_prediction) | Machine Learning |
+| 🚗 [Определение стоимости автомобилей](https://github.com/sonyaoa/car_price_estimation) | Machine Learning |
 | 📈 [Анализ прибыльности регионов добычи нефти](https://github.com/sonyaoa/wells_profit_analysis) | Machine Learning |
 | 👥 [Прогнозирование текучести кадров](https://github.com/sonyaoa/employee_attrition_prediction) | Machine Learning |
 | 🛒 [Прогнозирование оттока клиентов интернет-магазина](https://github.com/sonyaoa/client_retention_analysis) | Machine Learning |
